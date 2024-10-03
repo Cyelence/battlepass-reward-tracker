@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.goal-item {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  display: inline-block;
+}
+
+.animation {
+  font-size: 20px;
+  color: green;
+  margin-top: 10px;
+}
